@@ -1,4 +1,4 @@
-# Animal Adoption Database
+# Animal Adoption Database 🐶
 
 ## Project Description
 This project represents the implementation of a database for managing an animal adoption center, developed using Oracle APEX and SQL.
