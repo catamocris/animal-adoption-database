@@ -93,3 +93,9 @@ Aggregation functions were used to generate reports:
 - GROUP BY – groups animals by type to generate statistics
 
 These queries are used for statistical reports in the APEX application.
+
+---
+
+## Conclusion
+This project helped me understand how to design a relational database, create relationships between tables using primary and foreign keys, and generate reports using SQL queries.
+I also learned how to build a database application using Oracle APEX.
